@@ -1,2 +1,1 @@
-# Video-Holmes
-Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?
+# Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?
