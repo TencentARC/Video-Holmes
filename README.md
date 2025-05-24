@@ -31,7 +31,7 @@
 
 ## 🔎 Introduction
 
-Video-Holmes is a benchmark designed to evaluate the complex video reasoning capabilities of MLLMs. 
+Video-Holmes is <b>a benchmark designed to evaluate the complex video reasoning capabilities of MLLMs</b>. 
 
 Video-Holmes consists of 1,837 questions derived from 270 manually annotated <b>suspense short films</b> (ranging from 1 to 5 minutes), which spans <b>seven carefully designed tasks</b>. Each task is constructed by first identifying key events and causal relationships within films, and then designing questions that require models to <b>actively locate and connect multiple relevant visual clues scattered across different video segments</b>.
 
