@@ -45,7 +45,7 @@ Video-Holmes consists of 1,837 questions derived from 270 manually annotated <b>
 <li><b>Reasoning Process Analysis:</b> Clearly visualizes the reasons behind correct and incorrect model responses.</li>
 </ul>
 
-We aim that Video-Holmes can serve as a <i>"Holmes-test"</i> for multimodal reasoning, motivating models to reason more like humans and emphasizing the ongoing challenges in this field. Please visit our [hompage](https://video-holmes.github.io/Page.github.io/) for more details!
+We aim that Video-Holmes can serve as a <i>"Holmes-test"</i> for multimodal reasoning, motivating models to reason more like humans and emphasizing the ongoing challenges in this field. Please visit our [homepage](https://video-holmes.github.io/Page.github.io/) for more details!
 
 <img src="assets/Teaser.png" alt="Teaser Image" style="width: 100%; height: auto;">
 
