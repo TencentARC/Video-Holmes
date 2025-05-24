@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/name.png" height=200>
+  <img src="assets/name.png" height=180>
 </p>
 <hr>
 <div align="center">
