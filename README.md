@@ -21,9 +21,11 @@
 <a href="https://video-holmes.github.io/Page.github.io/" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/🌎_Website-Video--Holmes-blue.svg" height="20" />
 </a>
+
 <a href="https://arxiv.org/abs/" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Video--Holmes-red?logo=arxiv" height="20" />
 </a>
+
 <a href="https://huggingface.co/datasets/TencentARC/Video-Holmes" target="_blank">
     <img alt="HF Dataset: Video--Holmes" src="https://img.shields.io/badge/%F0%9F%A4%97%20_Benchmark-Video--Holmes-ffc107?color=ffc107&logoColor=white" height="20" />
 </a>
@@ -38,7 +40,7 @@ Video-Holmes consists of 1,837 questions derived from 270 manually annotated <b>
 ⭐ Key Aspects of Video-Holmes:
 
 <ul style="list-style-type: disc; padding-left: 20px;">
-<li><b>One-Click Evaluation:</b> Videos, audios, questions, and evaluation codes are packaged on GitHub and <a href="https://huggingface.co/datasets/TencentARC/Video-Holmes" target="_blank">Huggingface</a>.</li>
+<li><b>One-Click Evaluation:</b> Videos, questions, and evaluation codes are packaged on GitHub and <a href="https://huggingface.co/datasets/TencentARC/Video-Holmes" target="_blank">Huggingface</a>.</li>
 <li><b>High Reasoning Demand:</b> Significant performance gap between reasoning models and non-reasoning models.</li>
 <li><b>Reasoning Process Analysis:</b> Clearly visualizes the reasons behind correct and incorrect model responses.</li>
 </ul>
