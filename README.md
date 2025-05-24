@@ -63,7 +63,6 @@ We aim that Video-Holmes can serve as a <i>"Holmes-test"</i> for multimodal reas
 
 ## 🚀 Quick Start
 
-
 To download Video-Holmes, you can run the following command:
 ```shell
 git clone https://github.com/TencentARC/Video-Holmes.git
@@ -86,6 +85,17 @@ Supported Model List:
 | Qwen2.5-VL-32B | Video-R1  | InternVL3-8B | gemini-2.0-pro-exp | 
 
 You can also customize your model by specifying the `--model_path` argument, or by implementing the following functions: `prepare_your_model` (line 388) and `generate_your_model` (line 439).
+
+## 🛠️ Pipeline
+
+We select 270 high-quality suspense short films for human annotation. Next, we design 7 challenging tasks and employ DeepSeek to generate questions. Finally, we evaluate SOTA MLLMs and use DeepSeek to analyze their responses (optional).
+<img src="assets/pipeline.png" alt="Teaser Image" style="width: 100%; height: auto;">
+
+## 🗝️ Question Types
+
+Existing benchmarks primarily involve clue-given questions, where models depend on explicitly provided clues to derive answers. In contrast, Video-Holmes adopts an active seeking paradigm, requiring models to actively locate and connect multiple relevant visual clues scattered across different video segments.
+<img src="assets/Teaser2.png" alt="Teaser Image" style="width: 100%; height: auto;">
+
 
 ## 📜 Citation
 
