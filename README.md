@@ -69,7 +69,7 @@ git clone https://github.com/TencentARC/Video-Holmes.git
 cd Video-Holmes
 pip install huggingface_hub
 python download.py --hf_token YOUR HUGGINGFACE ACCESS TOKEN
-unzip Benchmark/videos.zip -d Benchmark/videos
+unzip Benchmark/videos.zip -d Benchmark/
 ```
 
 We provide all-in-one evaluation codes for baseline models:
