@@ -56,7 +56,7 @@ We aim that Video-Holmes can serve as a <i>"Holmes-test"</i> for multimodal reas
 
 ## 🚩 Plan
 - [x] Release suspense short film annotations
-- [ ] Release benchmark construction codes
+- [x] Release benchmark construction codes
 - [ ] Release training data
 
 ## 🚀 Quick Start
