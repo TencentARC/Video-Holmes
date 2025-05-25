@@ -71,8 +71,6 @@ unzip Benchmark/videos.zip -d Benchmark/
 unzip Benchmark/annotations.zip -d Benchmark/
 ```
 
-### 🧪 Model Evaluation
-
 We provide all-in-one evaluation codes for baseline models:
 ```shell
 python evaluate.py --model_name YOUR_MODEL_NAME --model_path YOUR_MODEL_PATH (optional)
@@ -87,20 +85,30 @@ Supported Model List:
 
 You can also customize your model by specifying the `--model_path` argument, or by implementing the following functions: `prepare_your_model` (line 388) and `generate_your_model` (line 439).
 
-### 🧐 Reasoning Process Analysis
-
+<details>
+<summary><b>🧐 Reasoning Process Analysis</b></summary>
+  
 You first need to apply an [DeepSeek API key](https://platform.deepseek.com/api_keys) and then you can run the following commands to analyze the reasoning process of your models:
+
 ```shell
 python evaluate_reasoning.py --model_name YOUR_MODEL_NAME --api_key YOUR_API_KEY
 ```
 
-### 🪄 Generate Your Holmes-Test
+</details>
+
+<details>
+<summary><b>🪄 Generate Your Holmes-Test</b></summary>
+  
 To generate questions for your videos with annotations, you can run the following commands:
+
 ```shell
 cd Pipeline
 python generate_questions.py --api_key YOUR_API_KEY
 ```
+
 > Note: You can down load the video on YouTube according to the `VIDEO_ID` by `https://www.youtube.com/watch?v=VIDEO_ID`
+</details>
+
 
 ## 🛠️ Construction Pipeline
 
