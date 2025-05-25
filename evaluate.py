@@ -532,7 +532,6 @@ if __name__ == '__main__':
     parser.add_argument('--model_path', default=None, type=str)
     args = parser.parse_args()
     
-    args.model_name = "Intern-VL2.5-8B"
     model_name = args.model_name
     model_path = args.model_path
 
