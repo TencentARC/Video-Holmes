@@ -55,11 +55,9 @@ We aim that Video-Holmes can serve as a <i>"Holmes-test"</i> for multimodal reas
 * [2025-05-28] We released Video-Holmes and corresponding evaluation code.🔥🔥🔥
 
 ## 🚩 Plan
-- [ ] Release training data
+- [x] Release suspense short film annotations
 - [ ] Release benchmark construction codes
-- [ ] Release suspense short film annotations
-
-
+- [ ] Release training data
 
 ## 🚀 Quick Start
 
@@ -68,9 +66,12 @@ To download Video-Holmes, you can run the following command:
 git clone https://github.com/TencentARC/Video-Holmes.git
 cd Video-Holmes
 pip install huggingface_hub
-python download.py --hf_token YOUR HUGGINGFACE ACCESS TOKEN
+python download.py --hf_token YOUR_HUGGINGFACE_ACCESS_TOKEN
 unzip Benchmark/videos.zip -d Benchmark/
+unzip Benchmark/annotations.zip -d Benchmark/
 ```
+
+### 🧪 Model Evaluation
 
 We provide all-in-one evaluation codes for baseline models:
 ```shell
@@ -86,7 +87,14 @@ Supported Model List:
 
 You can also customize your model by specifying the `--model_path` argument, or by implementing the following functions: `prepare_your_model` (line 388) and `generate_your_model` (line 439).
 
-## 🛠️ Pipeline
+### 🧐 Reasoning Process Analysis
+
+You first need to apply an [DeepSeek API key](https://platform.deepseek.com/api_keys) and then you can run the following commands to analyze the reasoning process of your models:
+```shell
+python evaluate_reasoning.py --model_name YOUR MODEL NAME
+```
+
+## 🛠️ Construction Pipeline
 
 We select 270 high-quality suspense short films for human annotation. Next, we design 7 challenging tasks and employ DeepSeek to generate questions. Finally, we evaluate SOTA MLLMs and use DeepSeek to analyze their responses (optional).
 <img src="assets/pipeline.png" alt="Teaser Image" style="width: 100%; height: auto;">
