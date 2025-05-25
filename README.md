@@ -88,7 +88,7 @@ You can also customize your model by specifying the `--model_path` argument, or 
 <details>
 <summary><b>🧐 Reasoning Process Analysis</b></summary>
   
-You first need to apply an [DeepSeek API key](https://platform.deepseek.com/api_keys) and then you can run the following commands to analyze the reasoning process of your models:
+You first need to apply a [DeepSeek API key](https://platform.deepseek.com/api_keys) and then you can run the following commands to analyze the reasoning process of your models:
 
 ```shell
 python evaluate_reasoning.py --model_name YOUR_MODEL_NAME --api_key YOUR_API_KEY
