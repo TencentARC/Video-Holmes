@@ -75,7 +75,7 @@ unzip Benchmark/annotations.zip -d Benchmark/
 
 We provide all-in-one evaluation codes for baseline models:
 ```shell
-python evaluate.py --model_name YOUR MODEL NAME --model_path YOUR MODEL PATH (optional)
+python evaluate.py --model_name YOUR_MODEL_NAME --model_path YOUR_MODEL_PATH (optional)
 ```
 
 Supported Model List:
