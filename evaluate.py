@@ -528,7 +528,7 @@ def evaluate(video_path, json_file_path, output_path, model_name, model_path):
 if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(description="Run model with specified name")
-    parser.add_argument('--model_name', require=True, type=str)
+    parser.add_argument('--model_name', default="Qwen2.5-VL-7B", type=str)
     parser.add_argument('--model_path', default=None, type=str)
     args = parser.parse_args()
     
