@@ -1,0 +1,36 @@
+[
+    {
+        "Segment Description": [
+            {
+                "TimeRange": "00:00-00:37",
+                "Description": "In the empty office, the man in white is tiredly printing materials. The printer broke down. He kicked it angrily twice and then printed out an A4 paper with a black hole on it. He casually put it aside, but the printer still couldn't print normally."
+            },
+            {
+                "TimeRange": "00:37-01:30",
+                "Description": "The man in white finished his coffee and when he put down the coffee cup, the cup fell into the black hole of the A4 paper. The man in white then discovered that he could reach his hand through the black hole. So he experimented by reaching through the black hole from the vending machine and took out a chocolate to eat."
+            },
+            {
+                "TimeRange": "01:30-02:27",
+                "Description": "The man in white uses a black hole to open the door of the leader's office, walks in, sticks a piece of paper with a black hole on the safe to steal cash. When he can't reach it, he climbs in. At this time, the A4 paper falls to the ground, and he is trapped in the safe."
+            }
+        ],
+        "Key Relationships": [
+            {
+                "Combination": "The woman in blue and the man in green are cleaners.",
+                "Reason": "The woman in blue clothes takes the elevator and bumps into the green-clothed male cleaner."
+            }
+        ],
+        "Inference Shots": [
+            {
+                "Time": "00:41",
+                "Clue": "When the man in white placed the coffee cup, the cup actually fell into the black hole of the A4 paper."
+            }
+        ],
+        "Supernatural Elements": {
+            "Phenomenon": "As long as the male protagonist places a piece of paper with a black hole printed on it onto the surface of an object, he can pass through it and retrieve whatever is inside.",
+            "PositiveImpact": "He can bypass obstacles and quickly retrieve items.",
+            "NegativeImpact": "Abusing it may lead to committing crimes and ultimately consume oneself."
+        },
+        "Core Theme": "Don’t let the black hole of desire consume you."
+    }
+]

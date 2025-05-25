@@ -114,7 +114,7 @@ def evaluate(annotation_path, results_path, model_name, client):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="Run model with specified name")
     parser.add_argument('--model_name', type=str, default="Qwen2.5-VL-7B", help="Name of the model to evaluate")
-    parser.add_argument('--api_key', type=str, help="API key for DeeoSeek")
+    parser.add_argument('--api_key', type=str, help="API key for DeepSeek")
     args = parser.parse_args()
 
     model_name = args.model_name

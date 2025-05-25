@@ -1,0 +1,130 @@
+[
+    {
+        "video ID": "dGS48Kcax5k",
+        "Question ID": 1,
+        "Question Type": "SR",
+        "Question": "What is the professional relationship between the man in the white suit and the man in the red shirt?",
+        "Options": {
+            "A": "Colleagues in different departments",
+            "B": "Business partners",
+            "C": "Doctor and patient",
+            "D": "Superior and subordinate",
+            "E": "Competitors in the same company",
+            "F": "Teacher and student"
+        },
+        "Answer": "D",
+        "Explanation": "At 02:26, the man in the red shirt hands documents to the man in the white suit, who reluctantly accepts them. This power dynamic explicitly establishes a superior-subordinate relationship."
+    },
+    {
+        "video ID": "dGS48Kcax5k",
+        "Question ID": 2,
+        "Question Type": "IMC",
+        "Question": "What was the man’s intention when he deliberately induced a sneeze at 01:15 in the video?",
+        "Options": {
+            "A": "To alleviate nasal congestion",
+            "B": "To test the limits of his supernatural ability",
+            "C": "To avoid completing paperwork manually",
+            "D": "To signal distress to his boss",
+            "E": "To trigger a time jump to his death",
+            "F": "To create a distraction for theft"
+        },
+        "Answer": "C",
+        "Explanation": "After discovering his sneeze automates paperwork, repeated use of this action (shown in 00:46-01:31 segment) confirms his intention to bypass manual labor."
+    },
+    {
+        "video ID": "dGS48Kcax5k",
+        "Question ID": 3,
+        "Question Type": "TCI",
+        "Question": "Why did the protagonist ultimately become an old man in the final scene?",
+        "Options": {
+            "A": "Natural aging process",
+            "B": "Poisoning by workplace chemicals",
+            "C": "Genetic disease acceleration",
+            "D": "Overuse of time-jumping sneezes",
+            "E": "Stress-induced rapid aging",
+            "F": "A ritual punishment for laziness"
+        },
+        "Answer": "D",
+        "Explanation": "The supernatural rule states that abusing the sneeze ability risks jumping to one’s death timeline. The nosebleed at 02:39 and sudden aging visually confirm cumulative time-jumping consequences."
+    },
+    {
+        "video ID": "dGS48Kcax5k",
+        "Question ID": 4,
+        "Question Type": "TA",
+        "Question": "Arrange these events in chronological order:\n1. Nosebleed drips on a form  \n2. Boss throws extra paperwork at the man  \n3. Old man appears in the office  \n4. Discovery of automated form completion  \n5. Intentional sneezing to skip work  ",
+        "Options": {
+            "A": "2-4-5-1-3",
+            "B": "4-2-5-1-3",
+            "C": "2-5-4-1-3",
+            "D": "5-2-4-3-1",
+            "E": "4-5-2-1-3",
+            "F": "2-4-1-5-3"
+        },
+        "Answer": "A",
+        "Explanation": "Correct sequence:Boss assigns work (2) → discovers sneeze automation (4) → abuses ability (5) → nosebleed foreshadowing (1) → final aging consequence (3)."
+    },
+    {
+        "video ID": "dGS48Kcax5k",
+        "Question ID": 5,
+        "Question Type": "MHR",
+        "Question": "What does the nosebleed at 02:39 combined with the immediate appearance of an old man symbolize?",
+        "Options": {
+            "A": "A random medical condition",
+            "B": "Physical exhaustion from overwork",
+            "C": "Time-jumping side effects becoming irreversible",
+            "D": "Allergic reaction to paperwork",
+            "E": "Telekinetic power manifestation",
+            "F": "A hallucination caused by stress"
+        },
+        "Answer": "C",
+        "Explanation": "The nosebleed (physical anomaly) and abrupt aging (temporal consequence) together visually encode the irreversible cost of time-jumping abuse per the supernatural rules."
+    },
+    {
+        "video ID": "dGS48Kcax5k",
+        "Question ID": 6,
+        "Question Type": "PAR",
+        "Question": "What supernatural rule governs the protagonist’s sneezing?",
+        "Options": {
+            "A": "Sneeze volume controls time-jump duration",
+            "B": "Each sneeze rewinds time by 24 hours",
+            "C": "Sneeze triggers automated task completion via time jumps",
+            "D": "Sneeze frequency correlates with paperwork complexity",
+            "E": "Sneeze summons a doppelgänger to help",
+            "F": "Sneeze alters gravitational forces"
+        },
+        "Answer": "C",
+        "Explanation": "The core supernatural phenomenon is explicitly shown:sneezes trigger jumps to the moment when work is finished (00:46-01:31 segment)."
+    },
+    {
+        "video ID": "dGS48Kcax5k",
+        "Question ID": 7,
+        "Question Type": "PAR",
+        "Question": "What does the gradual intensification of the protagonist’s nosebleeds imply about the supernatural ability?",
+        "Options": {
+            "A": "It enhances his physical stamina",
+            "B": "It requires increasing blood sacrifices",
+            "C": "It destabilizes his biological timeline",
+            "D": "It purges toxins from his body",
+            "E": "It signals improved time-jump precision",
+            "F": "It indicates allergy to paperwork"
+        },
+        "Answer": "C",
+        "Explanation": "Nosebleeds escalate as he abuses the ability, visually representing the \"negative impact\" of timeline corruption described in supernatural rules."
+    },
+    {
+        "video ID": "dGS48Kcax5k",
+        "Question ID": 8,
+        "Question Type": "CTI",
+        "Question": "What is the film’s primary critique of modern work culture?",
+        "Options": {
+            "A": "Underpaid overtime should be legally prohibited",
+            "B": "Automation technology will inevitably replace humans",
+            "C": "Shortcut-seeking behavior carries existential risks",
+            "D": "Corporate hierarchies exploit mental health",
+            "E": "Aging populations threaten workplace efficiency",
+            "F": "Paperwork processes need digital transformation"
+        },
+        "Answer": "C",
+        "Explanation": "The protagonist’s destructive reliance on time-jumping shortcuts (literalized supernatural \"hack\") directly supports the theme that excessive trickery leads to disaster."
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "Segment Description": [
+            {
+                "TimeRange": "00:00-00:46",
+                "Description": "A man is working in the workplace, filling out forms, and then his boss throws another pile at him. He looks very tired."
+            },
+            {
+                "TimeRange": "00:46-01:31",
+                "Description": "The man sneezed and found that the form in his hand was automatically completed. He tried it with other blank forms, and as soon as he sneezed, they would be automatically completed."
+            }
+        ],
+        "Key Relationships": [
+            {
+                "Combination": "Man in white suit and man in red shirt",
+                "Reason": "At 02:26, the man in the red shirt handed a large stack of documents to the man in the white suit, and the man in the white shirt helplessly accepted them, indicating that they have a superior-subordinate relationship."
+            }
+        ],
+        "Inference Shots": [
+            {
+                "Time": "02:39",
+                "Clue": "When the man was about to sneeze, a drop of nosebleed dripped down on the form. In the following shot, after the man finished sneezing, an old man appeared in the original position."
+            }
+        ],
+        "Supernatural Elements": {
+            "Phenomenon": "The protagonist triggers time jumps whenever he sneezes.",
+            "PositiveImpact": "He can directly jump to the moment when his work is finished, saving time.",
+            "NegativeImpact": "Abusing this ability might cause him to jump far into the future (even to the time of his death)."
+        },
+        "Core Theme": "Excessive shortcuts or trickery may lead to disaster."
+    }
+]

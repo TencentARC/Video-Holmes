@@ -1,0 +1,130 @@
+[
+    {
+        "video ID": "RSmjqss0XKQ",
+        "Question ID": 1,
+        "Question Type": "SR",
+        "Question": "What is the relationship between the woman in blue and the man in green?",
+        "Options": {
+            "A": "Cleaners",
+            "B": "Colleagues from the same department",
+            "C": "Siblings",
+            "D": "Strangers who collided accidentally",
+            "E": "Undercover police officers",
+            "F": "Office coworkers"
+        },
+        "Answer": "A",
+        "Explanation": "The woman in blue and man in green both wear cleaning uniforms and interact during elevator maintenance work, confirming their roles as cleaners."
+    },
+    {
+        "video ID": "RSmjqss0XKQ",
+        "Question ID": 2,
+        "Question Type": "IMC",
+        "Question": "The man in white kicked the printer at 00:05 with what intention?",
+        "Options": {
+            "A": "Testing its sturdiness",
+            "B": "Venting anger at the broken machine",
+            "C": "Trying to activate hidden functions",
+            "D": "Signaling colleagues for help",
+            "E": "Warming up for physical exercise",
+            "F": "Investigating suspicious noises"
+        },
+        "Answer": "B",
+        "Explanation": "His frustrated expression and subsequent abandonment of the printer after kicking indicate impulsive anger toward the malfunctioning device."
+    },
+    {
+        "video ID": "RSmjqss0XKQ",
+        "Question ID": 3,
+        "Question Type": "TCI",
+        "Question": "Why was the man in white trapped in the safe?",
+        "Options": {
+            "A": "The safe automatically locked",
+            "B": "The leader returned unexpectedly",
+            "C": "The A4 paper with the black hole fell off the safe",
+            "D": "He forgot the safe combination",
+            "E": "The black hole's energy depleted",
+            "F": "Cleaners discovered him"
+        },
+        "Answer": "C",
+        "Explanation": "The shot showing the A4 paper slipping off the safe surface (01:30-02:27) severed his escape route through the black hole."
+    },
+    {
+        "video ID": "RSmjqss0XKQ",
+        "Question ID": 4,
+        "Question Type": "TA",
+        "Question": "Arrange these events chronologically:\n1. Coffee cup falls into the black hole  \n2. Stealing cash from the safe  \n3. Printer malfunctions  \n4. Trapped in the safe  \n5. Retrieving chocolate from a vending machine  ",
+        "Options": {
+            "A": "3→1→5→2→4",
+            "B": "3→5→1→2→4",
+            "C": "1→3→5→2→4",
+            "D": "3→2→1→5→4",
+            "E": "5→3→1→2→4",
+            "F": "3→1→2→5→4"
+        },
+        "Answer": "A",
+        "Explanation": "Correct sequence:Printer breaks (00:00-00:37) → Coffee incident (00:37-01:30) → Chocolate theft demonstrates power → Safe robbery → Entrapment."
+    },
+    {
+        "video ID": "RSmjqss0XKQ",
+        "Question ID": 5,
+        "Question Type": "MHR",
+        "Question": "What does the coffee cup sinking into the A4 paper at 00:41 symbolically reveal?",
+        "Options": {
+            "A": "The office is a virtual simulation",
+            "B": "The black hole allows matter penetration",
+            "C": "The cup contains poisonous liquid",
+            "D": "Time travel capabilities",
+            "E": "A premonition of drowning",
+            "F": "Teleportation between dimensions"
+        },
+        "Answer": "B",
+        "Explanation": "This first successful interaction with the black hole establishes its core supernatural rule of enabling physical object traversal."
+    },
+    {
+        "video ID": "RSmjqss0XKQ",
+        "Question ID": 6,
+        "Question Type": "PAR",
+        "Question": "What is the fundamental rule governing the black hole's functionality?",
+        "Options": {
+            "A": "Must be placed on an object's surface to retrieve contents",
+            "B": "Only works on electronic devices",
+            "C": "Requires blood sacrifice to activate",
+            "D": "Functions exclusively at night",
+            "E": "Limited to non-metallic materials",
+            "F": "Depends on lunar phases"
+        },
+        "Answer": "A",
+        "Explanation": "The protagonist consistently applies the paper to target surfaces (printer, vending machine, safe) to access their interiors."
+    },
+    {
+        "video ID": "RSmjqss0XKQ",
+        "Question ID": 7,
+        "Question Type": "PAR",
+        "Question": "What does the black hole metaphorically represent?",
+        "Options": {
+            "A": "Workplace technological risks",
+            "B": "Psychological trauma",
+            "C": "Uncontrolled greed",
+            "D": "Quantum physics mysteries",
+            "E": "Social class barriers",
+            "F": "Criminal punishment systems"
+        },
+        "Answer": "C",
+        "Explanation": "The progression from harmless chocolate theft to criminal cash robbery mirrors how unchecked desires lead to self-destruction."
+    },
+    {
+        "video ID": "RSmjqss0XKQ",
+        "Question ID": 8,
+        "Question Type": "CTI",
+        "Question": "What is the video's core message?",
+        "Options": {
+            "A": "Technology erodes human morality",
+            "B": "Curiosity drives scientific progress",
+            "C": "Poverty justifies minor crimes",
+            "D": "Office work harms mental health",
+            "E": "Superpowers require responsibility",
+            "F": "Don’t let desire consume you"
+        },
+        "Answer": "F",
+        "Explanation": "The protagonist's descent from frustration to criminal behavior and final entrapment visually embodies the theme of self-destruction through greed."
+    }
+]
