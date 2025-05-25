@@ -61,7 +61,7 @@ We aim that Video-Holmes can serve as a <i>"Holmes-test"</i> for multimodal reas
 
 ## 🚀 Quick Start
 
-To download Video-Holmes, you can run the following command:
+To download Video-Holmes, you can run the following commands:
 ```shell
 git clone https://github.com/TencentARC/Video-Holmes.git
 cd Video-Holmes
@@ -91,8 +91,16 @@ You can also customize your model by specifying the `--model_path` argument, or 
 
 You first need to apply an [DeepSeek API key](https://platform.deepseek.com/api_keys) and then you can run the following commands to analyze the reasoning process of your models:
 ```shell
-python evaluate_reasoning.py --model_name YOUR MODEL NAME
+python evaluate_reasoning.py --model_name YOUR_MODEL_NAME --api_key YOUR_API_KEY
 ```
+
+### 🪄 Generate Your Holmes-Test
+To generate questions for your videos with annotations, you can run the following commands:
+```shell
+cd Pipeline
+python generate_questions.py --api_key YOUR_API_KEY
+```
+> Note: You can down load the video on YouTube according to the `VIDEO_ID` by `https://www.youtube.com/watch?v=VIDEO_ID`
 
 ## 🛠️ Construction Pipeline
 
