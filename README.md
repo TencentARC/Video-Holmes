@@ -120,7 +120,11 @@ We select 270 high-quality suspense short films for human annotation. Next, we d
 Existing benchmarks primarily involve clue-given questions, where models depend on explicitly provided clues to derive answers. In contrast, Video-Holmes adopts an active seeking paradigm, requiring models to actively locate and connect multiple relevant visual clues scattered across different video segments.
 <img src="assets/Teaser2.png" alt="Teaser Image" style="width: 100%; height: auto;">
 
-
+## :closed_book: License
+- Video-Holmes is released under the Apache-2.0 license for academic purpose only.
+- All videos of the Video-Holmes are obtained from the Internet which are not property of our institutions. Our institution are not responsible for the content nor the meaning of these videos. The copyright remains with the original owners of the video.
+- If any video in our dataset infringes upon your rights, please contact us for removal.
+  
 ## 📜 Citation
 
 If you find our work helpful, please consider giving a star ⭐ and citation 📝
