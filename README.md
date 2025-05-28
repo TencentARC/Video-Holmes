@@ -22,7 +22,7 @@
     <img alt="Website" src="https://img.shields.io/badge/🌎_Website-Video--Holmes-blue.svg" height="20" />
 </a>
 
-<a href="https://arxiv.org/abs/" target="_blank">
+<a href="http://arxiv.org/abs/2505.21374" target="_blank">
     <img alt="arXiv" src="https://img.shields.io/badge/arXiv-Video--Holmes-red?logo=arxiv" height="20" />
 </a>
 
