@@ -53,7 +53,7 @@ We aim that Video-Holmes can serve as a <i>"Holmes-test"</i> for multimodal reas
 ## 📅 News
 
 * [2025-05-29] 🔥We released the training set of Video-Holmes, which consists of 233 videos and 1,551 questions.
-* [2025-05-28] 🔥We released Video-Holmes and corresponding evaluation code.
+* [2025-05-28] 🔥We released Video-Holmes and corresponding evaluation codes.
 
 ## 🚩 Plan
 - [x] Release suspense short film annotations
