@@ -66,6 +66,7 @@ We aim that Video-Holmes can serve as a <i>"Holmes-test"</i> for multimodal reas
 
 ➡️ [Full leaderboard](https://video-holmes.github.io/Page.github.io#leaderboard)
 
+> Welcome to contact us at Howe4884@outlook.com to upload your model to the leaderboard.
 
 
 ## 🚀 Quick Start
