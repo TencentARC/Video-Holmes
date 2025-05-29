@@ -59,7 +59,7 @@ We aim that Video-Holmes can serve as a <i>"Holmes-test"</i> for multimodal reas
 - [x] Release suspense short film annotations
 - [x] Release benchmark construction codes
 - [x] Release training data
-
+- [ ] Support evaluation from [VLMEvalKit](https://github.com/open-compass/VLMEvalKit)
 ## 🏆 Leaderboard
 🏅 Best performance model: [Gemini-2.5-Pro](https://gemini.google.com/)
 
