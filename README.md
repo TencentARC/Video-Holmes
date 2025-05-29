@@ -64,7 +64,7 @@ We aim that Video-Holmes can serve as a <i>"Holmes-test"</i> for multimodal reas
 
 🏅 Best thinking model based on Qwen2.5-VL-7B: [Video-R1](https://github.com/tulerfeng/Video-R1)
 
-➡️ [Full leaderboard](https://video-holmes.github.io/Page.github.io/)
+➡️ [Full leaderboard](https://video-holmes.github.io/Page.github.io#leaderboard)
 
 
 
