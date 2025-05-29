@@ -60,9 +60,11 @@ We aim that Video-Holmes can serve as a <i>"Holmes-test"</i> for multimodal reas
 - [ ] Release training data
 
 ## 🏆 Leaderboard
-- Best performance: [Gemini-2.5-Pro](https://gemini.google.com/)
-- Best Thinking Model based on Qwen2.5-VL-7B: [Video-R1](https://github.com/tulerfeng/Video-R1)
+🏅 Best performance model: [Gemini-2.5-Pro](https://gemini.google.com/)
 
+🏅 Best thinking model based on Qwen2.5-VL-7B: [Video-R1](https://github.com/tulerfeng/Video-R1)
+
+➡️ [Full leaderboard](https://video-holmes.github.io/Page.github.io/)
 
 
 
