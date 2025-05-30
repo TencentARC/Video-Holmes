@@ -141,14 +141,11 @@ Existing benchmarks primarily involve clue-given questions, where models depend 
 If you find our work helpful, please consider giving a star ⭐ and citation 📝
 
 ```BibTeXw
-@misc{cheng2025videoholmesmllmthinklike,
-      title={Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?}, 
-      author={Junhao Cheng and Yuying Ge and Teng Wang and Yixiao Ge and Jing Liao and Ying Shan},
-      year={2025},
-      eprint={2505.21374},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2505.21374}, 
+@article{cheng2025video,
+  title={Video-Holmes: Can MLLM Think Like Holmes for Complex Video Reasoning?},
+  author={Cheng, Junhao and Ge, Yuying and Wang, Teng and Ge, Yixiao and Liao, Jing and Shan, Ying},
+  journal={arXiv preprint arXiv:2505.21374},
+  year={2025}
 }
 ```
 
