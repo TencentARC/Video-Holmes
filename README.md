@@ -131,7 +131,7 @@ We release the [training set](https://huggingface.co/datasets/TencentARC/Video-H
 | [Qwen2.5-VL-7B-GRPO-CARE*](https://github.com/TencentARC/SEED-Bench-R1) | **46.2** | **44.9** |**31.5** |**49.5** |**39.2** |**37.1** |**37.4**|**40.7** |
 
 
-\* denotes models training on Video-Holmes.
+> \* denotes models training on Video-Holmes.
 
 ## 🛠️ Construction Pipeline
 
