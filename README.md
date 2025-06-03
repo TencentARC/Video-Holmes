@@ -120,6 +120,18 @@ python generate_questions.py --api_key YOUR_API_KEY
 > Note: You can down load the video on YouTube according to the `VIDEO_ID` by `https://www.youtube.com/watch?v=VIDEO_ID`
 </details>
 
+## 🧠 Training (<span style="font-family:serif;">𝓃𝑒𝓌🔥</span>)
+
+We release the [training set](https://huggingface.co/datasets/TencentARC/Video-Holmes/blob/main/train_Video-Holmes.json) of Video-Holmes, which consists of 233 videos and 1,551 questions. Experimental results (as shown in the table below) demonstrate that performing RL post-training on this training set can further enhance the model's complex reasoning ability.
+
+| Model | SR |        IMC        | TCI        | TA        |        MHR        |        PAR        |        CTI        |        Avg |
+|---|----|----|----|----|----|----|----|----|
+| Qwen2.5-VL-7B  | 38.4|        34.8|        17.6|        30.0|        27.1|        18.6|        25.2|        27.8|
+| [Qwen2.5-VL-7B-GRPO-CARE](https://github.com/TencentARC/SEED-Bench-R1) |42.8|        35.1|        25.6|        40.5|        29.2|        29.9|        32.6|        33.5|
+| [Qwen2.5-VL-7B-GRPO-CARE*](https://github.com/TencentARC/SEED-Bench-R1) | **52.7** | **46.0** |**31.9** |**48.0** |**43.7** |**35.6** |**41.9**|**43.1** |
+
+
+\* denotes models training on Video-Holmes.
 
 ## 🛠️ Construction Pipeline
 
